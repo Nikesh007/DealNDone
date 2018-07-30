@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnD.Api", "DnD.Api\DnD.Api.csproj", "{D2348671-91B6-491F-A018-6AB96D587FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2348671-91B6-491F-A018-6AB96D587FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2348671-91B6-491F-A018-6AB96D587FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2348671-91B6-491F-A018-6AB96D587FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2348671-91B6-491F-A018-6AB96D587FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CCE73C8-B127-4941-B440-BF00CE345FCA}
+	EndGlobalSection
+EndGlobal
